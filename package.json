@@ -19,7 +19,7 @@
     "ag-grid-angular": "^14.0.0",
     "@angular/common": "5.0.0",
     "@angular/compiler": "5.0.0",
-    "@angular/compiler-cli": "5.0.0",
+    "@angular/compiler-cli": "9.0.0",
     "@angular/core": "5.0.0",
     "@angular/forms": "5.0.0",
     "@angular/http": "5.0.0",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@angular/cli": "1.5.0",
-    "@angular/compiler-cli": "5.0.0",
+    "@angular/compiler-cli": "9.0.0",
     "@types/jasmine": "2.5.38",
     "@types/node": "6.0.x",
     "codelyzer": "2.0.x",
