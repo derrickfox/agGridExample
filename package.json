@@ -15,7 +15,7 @@
   "private": true,
   "dependencies": {
     "ag-grid": "^14.0.0",
-    "ag-grid-enterprise": "^14.0.0",
+    "ag-grid-enterprise": "^31.3.4",
     "ag-grid-angular": "^14.0.0",
     "@angular/common": "5.0.0",
     "@angular/compiler": "5.0.0",
