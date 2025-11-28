@@ -17,7 +17,7 @@
     "ag-grid": "^14.0.0",
     "ag-grid-enterprise": "^14.0.0",
     "ag-grid-angular": "^14.0.0",
-    "@angular/common": "5.0.0",
+    "@angular/common": "19.2.16",
     "@angular/compiler": "5.0.0",
     "@angular/compiler-cli": "5.0.0",
     "@angular/core": "5.0.0",
